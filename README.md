@@ -24,5 +24,15 @@ get <item-name>
 exit
 ```
 
+# Planned Features
+* ~~Ability to drop items~~ (Added 03/11/2021)
+* Ability to look around to see which directions are available
+* Main-Menu to Start/Pause/Save/Load
+* Help Command such as -h or –help
+* Combat
+* Health, armor, weapons, healing items, etc..
+* More in-depth dialogue options
+* NPCs
+
 # Development Stage
 I plan to keep this repository updated as I learn more methods of feature implementation, cleaner code, and overall better functionality.
