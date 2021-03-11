@@ -63,6 +63,9 @@ while (1):  # Gameplay Loop
             print('Item already taken go to another room!!')
         else:
             Inventory.append(item)  # appending
+    elif direction == str('drop ' + item):
+        if item in Inventory:
+            Inventory.remove(item) # removing
     else:
         print('Invalid input or move or item')  # print
     if len(Inventory) == 6:
