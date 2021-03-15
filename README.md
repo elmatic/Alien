@@ -6,6 +6,12 @@ Alien was originally the final project for a course I was enrolled in at Souther
 
 # Playing the Game
 
+### Default Username / Password
+```
+Username: ellen
+Password: ripley
+```
+
 ### How to Move
 ```
 go North
@@ -30,6 +36,7 @@ exit
 * ~~Main-Menu to Start/Pause/Save/Load~~ (Added 03/14/2021 - Main Menu w/ Start, Help Menu, and Quitting)
 * Help Command such as -h or –help
 * Combat
+* Username and password creation to become a crew member
 * Health, armor, weapons, healing items, etc..
 * More in-depth dialogue options
 * NPCs
