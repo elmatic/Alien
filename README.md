@@ -27,7 +27,7 @@ exit
 # Planned Features
 * ~~Ability to drop items~~ (Added 03/11/2021)
 * Ability to look around to see which directions are available
-* Main-Menu to Start/Pause/Save/Load
+* ~~Main-Menu to Start/Pause/Save/Load~~ (Added 03/14/2021 - Main Menu w/ Start, Help Menu, and Quitting)
 * Help Command such as -h or –help
 * Combat
 * Health, armor, weapons, healing items, etc..
